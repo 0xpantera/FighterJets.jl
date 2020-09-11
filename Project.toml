@@ -3,6 +3,9 @@ uuid = "1f7dde27-6782-4df0-9908-f5b96187ac71"
 authors = ["Francososa <franky.sosa@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+Vehicle = "2d8081eb-bff0-4369-a3c2-ccfc7a6f6a0e"
+
 [compat]
 julia = "1"
 
